@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+   background: #5F5452; 
+}
+
+#header {
+    border: 1px solid red;
+    padding: 30px;
+    background: #E59866;
+    margin-bottom: 5px;
+}
+
+#header a {
+    color: black;
+}
+
+#header a:hover { 
+    color: #fff; 
+}
+
+#container {
+    width: 920px;
+    margin: 0 auto;
+    color: #fff;
+}
