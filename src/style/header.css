@@ -8,23 +8,50 @@ body {
    background: #5F5452; 
 }
 
-#header {
-    border: 1px solid red;
-    padding: 30px;
-    background: #E59866;
-    margin-bottom: 5px;
-}
-
-#header a {
-    color: black;
-}
-
-#header a:hover { 
-    color: #fff; 
-}
-
 #container {
     width: 920px;
     margin: 0 auto;
     color: #fff;
+    clear: both;
+}
+
+a:link, a:active, a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+}
+
+header {
+    background: #E59866;
+    padding: 25px 25px 35px 25px;
+
+}
+
+#logo{
+    float: left;
+    border: 1px solid black;
+}
+
+#logo a {
+    display: block;
+}
+
+nav ul {
+    list-style: none;
+    text-decoration: none;
+    float: right;
+    margin-right: 100px;
+    border: 1px solid black;
+}
+
+nav ul li {
+   float: left; 
+}
+
+nav ul li a:link {
+    display: block;
+    margin-right: 100px;  
 }

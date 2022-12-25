@@ -15,11 +15,21 @@
 </head>
 <body>
 
-    <div id="header">
-        <a href="#">
-            <i class="fa-solid fa-cash-register fa-lg"> My Store</i>
-        </a>
-    </div>
+    <header>
+        <div id="logo">
+            <a href="#">
+                <i class="fa-solid fa-cash-register fa-lg"> My Store</i>
+            </a>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Cadastro</a></li>
+            </ul>
+        </nav>
+    </header>
 
     <div id="container">
         Conteudo
