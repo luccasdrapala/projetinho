@@ -36,7 +36,7 @@ header {
 
 #logo{
     float: left;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 #logo a {
@@ -48,7 +48,7 @@ nav ul {
     text-decoration: none;
     float: right;
     /* margin-right: 100px; */
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 nav ul li {
