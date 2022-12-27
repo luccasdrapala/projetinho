@@ -15,23 +15,24 @@
 </head>
 <body>
 
-    <header>
-        <div id="logo">
-            <a href="#">
-                <i class="fa-solid fa-cash-register fa-lg"> My Store</i>
-            </a>
-        </div>
+    <header >
+        <div class="conteudo-topo">
+            <div id="logo">
+                <a href="#">
+                    <i class="fa-solid fa-cash-register fa-lg"> My Store</i>
+                </a>
+            </div>
 
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Produtos</a></li>
-                <li><a href="#">Cadastro</a></li>
-            </ul>
-        </nav>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Produtos</a></li>
+                    <li><a href="#">Cadastro</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
     <div id="container">
-        Conteudo
-    
+    conteudo
     
