@@ -15,6 +15,7 @@
 </head>
 <body>
 
+    
     <header >
         <div class="conteudo-topo">
             <div id="logo">
@@ -25,12 +26,14 @@
 
             <nav>
                 <ul>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="#">Compras</a></li>
-                    <li><a href="#">Cadastro</a></li>
+                    <li><a href="cadastrar.php">Cadastro</a></li>
                 </ul>
             </nav>
         </div>
     </header>
+
+    <div class="container">
 
     

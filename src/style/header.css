@@ -8,11 +8,12 @@ body {
    background: #5F5452; 
 }
 
-#container {
+.container {
     width: 1080px;
     margin: 0 auto;
     color: #fff;
     clear: both;
+    margin-top: 20px;
 }
 
 a:link, a:active, a:visited{
