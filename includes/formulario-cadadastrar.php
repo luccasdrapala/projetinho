@@ -11,7 +11,13 @@
         <input type="text" name="descricao_Produto" id="descricao_produto">
         <br>
         <label for="preco_produto">Preço</label>
-        <input type="text" name="preco_produto" id="preco_produto">
+        <input type="number" name="preco_produto" id="preco_produto">
+         
+        <label for="imposto_percentual">Imposto %</label>
+        <input type="number" name="imposto_percentual" id="imposto_percentual">
+        <br>
+
+        <button type="submit">Cadastrar Produto</button>
 
     </form>
 
