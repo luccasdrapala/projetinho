@@ -61,3 +61,9 @@ nav ul li a:link {
     margin-left: 100px;
     font-size: 1.2em;
 }
+
+.form-cadastro{
+    border: 1px solid red;
+    padding: 5px;
+    display: block;
+}

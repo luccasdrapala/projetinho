@@ -2,7 +2,7 @@
 
     <h2>Cadastro de Produtos</h2>
 
-    <form action="cadastra_produto.php" method="post">
+    <form action="cadastra_produto.php" method="post" class="form-cadastro">
 
         <label for="nome_produto">Nome do Produto</label>
         <input type="text" name="nome_produto" id="nome_produto">
@@ -20,5 +20,6 @@
         <button type="submit">Cadastrar Produto</button>
 
     </form>
+
 
 </main>
