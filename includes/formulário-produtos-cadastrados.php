@@ -1,5 +1,5 @@
 <main>
 
-    <h1>Listagem</h1>
+    <h1>Produtos disponíveis</h1>
 
 </main>
