@@ -28,7 +28,7 @@
                 <ul>
                     <li><a href="index.php">Home</a></li>
                     <li><a href="#">Compras</a></li>
-                    <li><a href="cadastrar.php">Cadastro</a></li>
+                    <li><a href="produtos.php">Produtos</a></li>
                 </ul>
             </nav>
         </div>
