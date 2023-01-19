@@ -1,6 +1,6 @@
 <section>
     <div class="botao-box">
-        <a href="">
+        <a href="cadastrar.php">
             <button class="botao-cadastrar" type="submit">Cadastrar Novo Produto</button>
         </a>
     </div>

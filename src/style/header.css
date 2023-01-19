@@ -62,12 +62,6 @@ nav ul li a:link {
     font-size: 1.2em;
 }
 
-.form-cadastro{
-    border: 1px solid red;
-    padding: 5px;
-    display: block;
-}
-
 .botao-cadastrar{
     background-color: #E59866;
     color: #fff;
@@ -88,4 +82,17 @@ nav ul li a:link {
 
 .botao-box{
     margin: 35px 0px 25px ;
+}
+
+.form-cadastro{
+    border: 1px solid red;
+    display: inline-block;
+    text-align: left;
+}
+
+.formulario-box{
+    text-align: center;  
+}
+.formulario-box h2{
+    font-size: 2.1em;
 }
